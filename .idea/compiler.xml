@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="osmall-common" />
+        <module name="osmall-common-1.0.0" />
+        <module name="osmall-product-api" />
+        <module name="osmall-product-service" />
+        <module name="osmall-user-api" />
+        <module name="osmall-user-service" />
+        <module name="osmall-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="osmall" target="1.8" />
+      <module name="osmall-backend-api" target="1.8" />
+      <module name="osmall-backend-service" target="1.8" />
+      <module name="osmall-common" target="1.8" />
+      <module name="osmall-common-1.0.0" target="1.8" />
+      <module name="osmall-order-api" target="1.8" />
+      <module name="osmall-order-service" target="1.8" />
+      <module name="osmall-product-api" target="1.8" />
+      <module name="osmall-product-service" target="1.8" />
+      <module name="osmall-user-api" target="1.8" />
+      <module name="osmall-user-service" target="1.8" />
+      <module name="osmall-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

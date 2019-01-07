@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osmall-backend-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osmall-backend-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osmall-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osmall-product-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osmall-product-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osmall-user-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osmall-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/osmall-web" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+package com.imooc.web.service;
+
+public interface CulsterService {
+
+	/**
+	 * @Description: 购买商品
+	 */
+	public void doBuyItem(String itemId);
+}
+

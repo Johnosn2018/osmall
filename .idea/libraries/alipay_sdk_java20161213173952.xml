@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="alipay-sdk-java20161213173952">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/osmall-web/src/main/webapp/WEB-INF/lib/alipay-sdk-java20161213173952.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

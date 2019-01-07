@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/osmall.iml" filepath="$PROJECT_DIR$/osmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmall-common/osmall-common.iml" filepath="$PROJECT_DIR$/osmall-common/osmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmall-common/osmall-common-1.0.0.iml" filepath="$PROJECT_DIR$/osmall-common/osmall-common-1.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmall-product-api/osmall-product-api.iml" filepath="$PROJECT_DIR$/osmall-product-api/osmall-product-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmall-product-service/osmall-product-service.iml" filepath="$PROJECT_DIR$/osmall-product-service/osmall-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmall-user-api/osmall-user-api.iml" filepath="$PROJECT_DIR$/osmall-user-api/osmall-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmall-user-service/osmall-user-service.iml" filepath="$PROJECT_DIR$/osmall-user-service/osmall-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmall-web/osmall-web.iml" filepath="$PROJECT_DIR$/osmall-web/osmall-web.iml" />
+    </modules>
+  </component>
+</project>

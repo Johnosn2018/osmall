@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="osmall-web:war">
+    <output-path>$PROJECT_DIR$/osmall-web/target</output-path>
+    <root id="archive" name="osmall-web.war">
+      <element id="artifact" artifact-name="osmall-web:war exploded" />
+    </root>
+  </artifact>
+</component>
