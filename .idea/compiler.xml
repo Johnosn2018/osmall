@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="osmall-common" />
         <module name="osmall-common-1.0.0" />
+        <module name="osmall-elasticsearch-client" />
+        <module name="osmall-elasticsearch-service" />
         <module name="osmall-product-api" />
         <module name="osmall-product-service" />
         <module name="osmall-user-api" />
@@ -21,6 +23,8 @@
       <module name="osmall-backend-service" target="1.8" />
       <module name="osmall-common" target="1.8" />
       <module name="osmall-common-1.0.0" target="1.8" />
+      <module name="osmall-elasticsearch-client" target="1.8" />
+      <module name="osmall-elasticsearch-service" target="1.8" />
       <module name="osmall-order-api" target="1.8" />
       <module name="osmall-order-service" target="1.8" />
       <module name="osmall-product-api" target="1.8" />

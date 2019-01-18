@@ -29,6 +29,11 @@
             <artifactId>osmall-product-api</artifactId>
             <version>1.0.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>osmall-elasticsearch-service</artifactId>
+            <version>1.5.5.RELEASE</version>
+        </dependency>
 
 
 

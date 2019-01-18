@@ -306,6 +306,8 @@
         <module>osmall-web</module>
         <module>osmall-product-api</module>
         <module>osmall-product-service</module>
+        <module>osmall-elasticsearch-client</module>
+        <module>osmall-elasticsearch-service</module>
     </modules>
 
 

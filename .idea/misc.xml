@@ -23,6 +23,7 @@
       <set>
         <option value="$PROJECT_DIR$/osmall-backend-api/pom.xml" />
         <option value="$PROJECT_DIR$/osmall-backend-service/pom.xml" />
+        <option value="$PROJECT_DIR$/osmall-elasticsearch-client/pom.xml" />
         <option value="$PROJECT_DIR$/osmall-order-api/pom.xml" />
         <option value="$PROJECT_DIR$/osmall-order-service/pom.xml" />
         <option value="$PROJECT_DIR$/osmall-product-service/pom.xml" />
